@@ -1,12 +1,12 @@
 # Codepath---Prework
 Background color changer 
-# Prework - *Name of App Here*
+# Prework - *IOS - Background changer*
 
-Submitted by: **Your Name Here**
+Submitted by: **Sabrina Beshir**
 
-**Name of your app** is an app that... [TODO] 
+**IOS - Background changer** is an app that changes the background color of your IOS device  
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -26,10 +26,10 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+I had a challenge figuring out my errors for one of the parts of my code, but I have figured it out 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Sabrina Beshir]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
