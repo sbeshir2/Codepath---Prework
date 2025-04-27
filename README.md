@@ -22,15 +22,9 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-Pinterest favorite features: 
- - visual discovery of products and ideas
- - search and explore feature to purchase new items 
-Tik Tok favorite feature:
- - video editing with equipped tools 
- - audio customization for videos 
-Instagram favorite features: 
- - share posts and videos 
- - connect with friends and sharing messages with each other
+Pinterest favorite features: visual discovery of products and ideas; search and explore feature to purchase new items 
+Tik Tok favorite feature: video editing with equipped tools; audio customization for videos 
+Instagram favorite features: share posts and videos; connect with friends and sharing messages with each other
  
 Protein Tracker App 
  An app idea that I had built, but would like to improve is a protein tracker app. 
