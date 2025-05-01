@@ -46,9 +46,10 @@ Protein Tracker App
  make your journey to getting your dream body more fun. 
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-I had a challenge figuring out my errors for one of the parts of my code, but I have figured it out 
+Some challenges I faced when building the app: 
+-I wasn't very familar with XCode, setting up the proper workspace was a bit challenging. 
+-I accidentily tried to drag the button to the storyboard instead of the code file which created a segue instead of a IBAction for the button. -Forgot to set the ViewController class in the storyboard whihc broke button connection. 
+-Had to learn how to use assistant editor to create the correct IBAactions
 ## License
 
     Copyright [2025] [Sabrina Beshir]
